@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829016678686",
+    "project_id": "pharmanet-dc153",
+    "storage_bucket": "pharmanet-dc153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829016678686:android:3591cc2e890514da20e90f",
+        "android_client_info": {
+          "package_name": "dpaa.mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829016678686-ie5g930hma0pmbc4g1dgkvv0gdjsbutf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCy_3MuOPSbSNxSeLVxgQPm2aY2oRETM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829016678686-ie5g930hma0pmbc4g1dgkvv0gdjsbutf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
